@@ -31,7 +31,7 @@ https://debopamraichaudhuri.github.io/My-first-website-html-practice/
 
 ##  Project Structure
 
-```text
+
 /
 ├── index.html
 ├── image.html
@@ -43,9 +43,11 @@ https://debopamraichaudhuri.github.io/My-first-website-html-practice/
 └── README.md
 ---
 
-##  Project Updates
+---
 
-###  Day 2 — HTML Forms & Inputs
+## 🔄 Project Updates
+
+### 🗓️ Day 2 — HTML Forms & Inputs
 
 On Day 2, I extended the website by adding a **dedicated HTML Forms page** and integrating it into the existing site navigation.
 
