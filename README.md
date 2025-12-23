@@ -41,3 +41,26 @@ https://debopamraichaudhuri.github.io/My-first-website-html-practice/
 ├── images/
 │   └── puppy.jpeg
 └── README.md
+---
+
+##  Project Updates
+
+###  Day 2 — HTML Forms & Inputs
+
+On Day 2, I extended the website by adding a **dedicated HTML Forms page** and integrating it into the existing site navigation.
+
+**What was added:**
+- A new page demonstrating HTML forms
+- Use of `<form>` and `<label>` elements
+- Multiple input types including:
+  - `text`
+  - `email`
+  - `password`
+  - `number`
+  - `radio`
+  - `checkbox`
+  - `submit`
+- Tested the form page locally and after deployment
+- Updated GitHub Pages deployment to include the new page
+
+This update helped me understand how **user input is collected in web applications** and how to safely extend an existing project without breaking previously completed work.
